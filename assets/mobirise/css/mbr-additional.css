@@ -1,23 +1,70 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
-#menu-1 .navbar-toggler {
-  color: #000;
-}
-
-
-#menu-2 .navbar-toggler {
-  color: #000;
-}
-#content4-3 I {
-  font-size: 36px;
-  font-family: 'Roboto', sans-serif;
-}
-#content4-3 H4 {
-  text-align: right;
-}
-#content4-3 P {
+#header1-0 H1 {
   text-align: center;
-  font-size: 19px;
-  font-family: 'Slabo 27px', serif;
-  color: #0e4611;
+}
+#header1-0 P {
+  font-size: 32px;
+}
+#menu-5 .navbar-toggler {
+  color: #000;
+}
+#menu-5 .nav-link {
+  font-size: 23px;
+}
+#menu-5 .navbar-toggler {
+  color: #000;
+}
+#menu-5 .nav-link {
+  font-size: 23px;
+}
+#content5-k .mbr-section-title {
+  text-align: center;
+}
+#menu-7 .navbar-toggler {
+  color: #000;
+}
+#menu-7 .nav-link {
+  font-size: 23px;
+}
+#content5-e .mbr-section-title {
+  text-align: center;
+}
+#header3-q H3 {
+  text-align: center;
+}
+#menu-o .navbar-toggler {
+  color: #000;
+}
+#menu-o .nav-link {
+  font-size: 23px;
+}
+#content4-p P {
+  font-size: 18px;
+}
+#menu-r .navbar-toggler {
+  color: #000;
+}
+#menu-r .nav-link {
+  font-size: 23px;
+}
+#header3-s H3 {
+  text-align: center;
+  font-size: 46px;
+}
+#header3-t H3 {
+  font-size: 24px;
+}
+#header3-t SMALL {
+  font-size: 16px;
+}
+#header3-u H3 {
+  font-size: 24px;
+}
+#header3-u SMALL {
+  font-size: 16px;
+}
+#header3-v H3 {
+  font-size: 24px;
+}
+#header3-v SMALL {
+  font-size: 16px;
 }
