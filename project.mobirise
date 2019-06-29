@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PascaleFuzet",
-    "currentPage": "index.html",
+    "currentPage": "Moi.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 33,
+    "uniqCompNum": 45,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -117,7 +117,7 @@
     "Sophro.html": {
       "settings": {
         "title": "Sophro",
-        "order": 4
+        "order": 7
       },
       "components": [
         {
@@ -201,7 +201,7 @@
     "Moi.html": {
       "settings": {
         "title": "Moi",
-        "order": 3
+        "order": 6
       },
       "components": [
         {
@@ -254,7 +254,7 @@
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/joyeuxnoel-1-sur-4-576x1024.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/pascale-1-sur-1-683x1024.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -264,10 +264,10 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.7"
           },
-          "title": "Mon parcours",
-          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p><p>dezdzdzed</p><p>dezdezdzed</p><p>dezdzdzedz</p><p>dezdzedzedzed</p><p>dezdzadeeazde</p><p>dezadazedaez</p><p>dezdazed</p><p>dezadzaed</p><p><br></p>",
+          "title": "QUI SUIS-JE ?",
+          "caption": "<p>Pascale FUZET, diplômée Master Spécialiste en Sophrologie Caycédienne</p><p>De formations initiales en Art Thérapie et en Education Spécialisée, j'ai travailler &nbsp;pendant plus de 20 ans &nbsp;auprès d'un public d'adultes et d'enfants en difficultés sociales et/ou &nbsp;en situation de handicap.</p><p>J'ai découvert la Sophrologie Caycédienne en 2008, méthode qui m'a conquise immédiatement. Les bienfaits que j'en ai ressenti m'ont &nbsp;amené naturellement a me former à cette méthode afin d'en faire bénéficier les gens que j'accompagnait au quotidien, dans le but qu'ils développent leur potentiel et s'épanouissent dans la dignité.</p><p>Mon intérêt pour l'être humain à toujours été présent dans mon parcours. Aujourd'hui J'accompagne les personnes à prendre conscience d'elles-même, de leur ressentis, afin &nbsp;qu'elles s'acheminent vers plus de sérénité, qu'elle retrouve confiance en elles et en l'avenir.</p>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
@@ -285,23 +285,38 @@
     "Application.html": {
       "settings": {
         "title": "Application",
-        "order": 2
+        "order": 5
       },
       "components": [
         {
           "_params": {
-            "showMeta": false
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fond-1-1920x960.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.7"
           },
-          "title": "Mes champs d'application",
-          "meta": "By John Smith posted July 30, 2015",
+          "title": "Champs d'application",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
-          "_name": "header3",
-          "_anchor": "header3-q",
+          "_name": "content5",
+          "_anchor": "content5-x",
           "_styles": {
-            "H3": {
+            ".mbr-section-title": {
               "text-align": "center"
             }
           }
@@ -351,13 +366,15 @@
         },
         {
           "_params": {
-            "showTitles": true,
-            "showCaptions": true,
-            "paddingTop": "0",
-            "paddingBottom": "3",
+            "showImages": true,
+            "showTitles": false,
+            "showCaptions": false,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "columns": 4,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -369,32 +386,83 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "<b>Bootstrap 3</b>",
-          "caption1": "<b>Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.</b>",
-          "title2": "<b>Responsive</b>",
-          "caption2": "<b>One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.</b>",
-          "title3": "<b>Web Fonts</b>",
-          "caption3": "<b>Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.</b>",
-          "title4": "<b>Unlimited Websites</b>",
-          "caption4": "<b>Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</b>",
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-bootstrap.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-responsive.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Bootstrap 3",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Bien-être au quotidien</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Enfants</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Adolescents</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Entreprise</a>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
-          "_name": "content4",
-          "_anchor": "content4-p",
-          "_styles": {
-            "P": {
-              "font-size": "18px"
-            }
-          }
+          "_name": "features1",
+          "_anchor": "features1-y"
         }
       ]
     },
     "Seance.html": {
       "settings": {
         "title": "Seance",
-        "order": 1
+        "order": 4
       },
       "components": [
         {
@@ -485,7 +553,7 @@
             "showMeta": true
           },
           "title": "Forfait 10 séances",
-          "meta": "By John Smith posted July 30, 2015",
+          "meta": "- Adulte : 405 €<br>- Enfants / Adolescents : 360 €<br>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
@@ -506,7 +574,7 @@
             "showMeta": true
           },
           "title": "Entreprise",
-          "meta": "By John Smith posted July 30, 2015",
+          "meta": "Me contacter pour obtenir un devis<br><br>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
@@ -521,6 +589,290 @@
               "font-size": "16px"
             }
           }
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "Entreprise",
+        "order": 3
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "23px"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\">Mobirise</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mobi-mbri mobi-mbri-star mbr-iconfont mbr-iconfont-btn-parent\"></span>Accueil</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"Sophro.html\"><span class=\"mobi-mbri mobi-mbri-info mbr-iconfont mbr-iconfont-btn-parent\"></span>Qu'est-ce que la sophrologie</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"Application.html\"><span class=\"mobi-mbri mobi-mbri-info mbr-iconfont mbr-iconfont-btn-parent\"></span>Champs d'application</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"Seance.html\"><span class=\"mobi-mbri mobi-mbri-info mbr-iconfont mbr-iconfont-btn-parent\"></span>Les séances</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"Moi.html\"><span class=\"mobi-mbri mobi-mbri-user-2 mbr-iconfont mbr-iconfont-btn-parent\"></span>Qui suis-je</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mobi-mbri mobi-mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact</a></li>",
+          "_anchor": "menu-z"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Entreprise",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-11",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "text": "<p>De nos jours, la prévention des risques psycho-sociaux est un enjeu majeur dans le monde professionnel. En vertu de l'article 4212-1 du code du travail, &nbsp;le responsable d'entreprise se doit d'assurer la protection de la santé mentale et physique de ses salariés.</p><p>La sophrologie est une réponse adaptée aux besoins de ceux-ci.<br>En effet, elle agit en prévention de ces risques professionnels. Elle permet d'éviter les troubles musculo-squelettiques, les somatisations et le burn-out puisqu'elle accompagne les personnes ver un mieux-être.</p><p>Mon accompagnement : &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</p><p>* Savoir gérer les tensions</p><p>* Travailler sur sa récupération</p><p>* Rebooster sa concentration, sa créativité</p><p>* Retrouver une cohésion de groupe</p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-12",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "title": "Enfants",
+        "order": 2
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "23px"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\">Mobirise</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mobi-mbri mobi-mbri-star mbr-iconfont mbr-iconfont-btn-parent\"></span>Accueil</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"Sophro.html\"><span class=\"mobi-mbri mobi-mbri-info mbr-iconfont mbr-iconfont-btn-parent\"></span>Qu'est-ce que la sophrologie</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"Application.html\"><span class=\"mobi-mbri mobi-mbri-info mbr-iconfont mbr-iconfont-btn-parent\"></span>Champs d'application</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"Seance.html\"><span class=\"mobi-mbri mobi-mbri-info mbr-iconfont mbr-iconfont-btn-parent\"></span>Les séances</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"Moi.html\"><span class=\"mobi-mbri mobi-mbri-user-2 mbr-iconfont mbr-iconfont-btn-parent\"></span>Qui suis-je</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mobi-mbri mobi-mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact</a></li>",
+          "_anchor": "menu-13"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Enfants",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-14",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "text": "<p>La sophrologie s'adresse aux enfants à partir de 7 ans. &nbsp; Elle leurs apprend à mieux se connaitre et à prendre confiance en eux. Les séances sont plus courtes que pour les adultes ( entre 30 et 45 minutes) et répondent aux besoins particuliers des enfants (temps de pause entre les exercices, échanges pour qu'ils puissent prendre conscience de leur vécu, de leur sensation).</p><p>J'utilise des exercices adaptés &nbsp;(expression corporelle, jeux, contes) selon la maturité de chacun, &nbsp;qui permettent aux enfants de sentir leur corps dans le calme, de se sentir respirer, de grandir et de s'épanouir sereinement.</p><p>Je leur donne des outils pour qu'ils se &nbsp;sentent plus forts, plus serein &nbsp;et puissent ainsi être plus épanouit et disponibles aux apprentissages</p><p>* Apprendre à se détendre,</p><p>* Apprivoiser ses peurs et ses angoisses,</p><p>* Apaiser ses colères et ses émotions,</p><p>* Gérer les difficultés d'endormissement,</p><p>* Améliorer la concentration et l'attention,</p><p>* Retrouver une motivation,</p><p>* Améliorer ses relations et positiver.<br><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-15"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "title": "Adolescents",
+        "order": 1
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "23px"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\">Mobirise</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mobi-mbri mobi-mbri-star mbr-iconfont mbr-iconfont-btn-parent\"></span>Accueil</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"Sophro.html\"><span class=\"mobi-mbri mobi-mbri-info mbr-iconfont mbr-iconfont-btn-parent\"></span>Qu'est-ce que la sophrologie</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"Application.html\"><span class=\"mobi-mbri mobi-mbri-info mbr-iconfont mbr-iconfont-btn-parent\"></span>Champs d'application</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"Seance.html\"><span class=\"mobi-mbri mobi-mbri-info mbr-iconfont mbr-iconfont-btn-parent\"></span>Les séances</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"Moi.html\"><span class=\"mobi-mbri mobi-mbri-user-2 mbr-iconfont mbr-iconfont-btn-parent\"></span>Qui suis-je</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mobi-mbri mobi-mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact</a></li>",
+          "_anchor": "menu-16"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Adolescents",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-17",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>* Se sentir mieux dans son corps et son esprit,</p><p>* Se sentir bien avec soi et avec les autres,</p><p>* Améliorer son sommeil,</p><p>* Gérer son stress,</p><p>* Rebooster sa concentration et sa mémoire,</p><p>* Développer ses capacités,</p><p>* Stimuler son énergie,</p><p>* Retrouver une motivation</p><p>* Améliorer la confiance en soi,</p><p>* Se préparer pour les examens,</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-18"
         }
       ]
     }
