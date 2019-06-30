@@ -1,5 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
 #header1-0 H1 {
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
 }
 #header1-0 P {
   font-size: 32px;
@@ -94,4 +98,24 @@
 }
 #content5-17 .mbr-section-title {
   text-align: center;
+}
+
+#menu-19 .navbar-toggler {
+  color: #000;
+}
+#menu-19 .nav-link {
+  font-size: 23px;
+}
+#header3-1a P {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+
+#menu-1b .navbar-toggler {
+  color: #000;
+}
+#menu-1b .nav-link {
+  font-size: 23px;
+}
+#header3-1c H3 {
+  font-family: 'Alegreya Sans', sans-serif;
 }
