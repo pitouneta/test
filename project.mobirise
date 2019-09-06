@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PascaleFuzet",
-    "currentPage": "Sophro.html",
+    "currentPage": "Moi.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -269,7 +269,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "QUI SUIS-JE ?",
-          "caption": "<p>Pascale FUZET, diplômée Master Spécialiste en Sophrologie Caycédienne</p><p>De formations initiales en Art Thérapie et en Education Spécialisée, j'ai travaillé &nbsp;pendant plus de 20 ans &nbsp;auprès d'un public d'adultes et d'enfants en difficultés sociales et/ou &nbsp;en situation de handicap.</p><p>J'ai découvert la Sophrologie Caycédienne en 2008, méthode qui m'a conquise immédiatement. Les bienfaits que j'en ai ressentis m'ont &nbsp;amenée naturellement à me former à cette méthode afin d'en faire bénéficier les gens que j'accompagnais au quotidien, dans le but qu'ils développent leur potentiel et s'épanouissent dans la dignité.</p><p>Mon intérêt pour l'être humain à toujours été présent dans mon parcours. Aujourd'hui J'accompagne les personnes à prendre conscience d'elles-mêmes, de leur ressentis, afin &nbsp;qu'elles s'acheminent vers plus de sérénité, qu'elles retrouvent confiance en elles et en l'avenir.</p>",
+          "caption": "<p>Pascale FUZET, diplômée Master Spécialiste en Sophrologie Caycédienne</p><p>De formations initiales en Art Thérapie et en Education Spécialisée, j'ai travaillé &nbsp;pendant plus de 20 ans &nbsp;auprès d'un public d'adultes et d'enfants en difficultés sociales et/ou &nbsp;en situation de handicap.</p><p>J'ai découvert la Sophrologie Caycédienne en 2008, méthode qui m'a conquise immédiatement. Les bienfaits que j'en ai ressentis m'ont &nbsp;amenée naturellement à me former à cette méthode afin d'en faire bénéficier les gens que j'accompagnais au quotidien, dans le but qu'ils développent leur potentiel et s'épanouissent dans la dignité.</p><p>Mon intérêt pour l'être humain à toujours été présent dans mon parcours. Aujourd'hui J'accompagne les personnes à prendre conscience d'elles-mêmes, de leur ressenti, afin &nbsp;qu'elles s'acheminent vers plus de sérénité, qu'elles retrouvent confiance en elles et en l'avenir.</p>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
