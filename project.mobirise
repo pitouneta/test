@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PascaleFuzet",
-    "currentPage": "index.html",
+    "currentPage": "Sophro.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -119,7 +119,7 @@
     "Sophro.html": {
       "settings": {
         "title": "Sophro",
-        "order": 9
+        "order": 1
       },
       "components": [
         {
@@ -185,7 +185,7 @@
             "overlayOpacity": 0.7
           },
           "title": "La sophrologie, c'est quoi?",
-          "caption": "<p>La sophrologie &nbsp;a été créé dans les années 60, par le neurophsychiatre colombien Alfonso Caycédo, qui s'est inspiré de techniques orientales et occidentales.</p><p>C'est une méthode psycho-corporelle qui favorise l'équilibre du corps et de l'esprit à travers des techniques d'activations et de relaxations, appuyés par la respiration.</p><p><span style=\"font-size: 1.25rem;\">Par la prise de conscience de soi, de ses ressentis physiques et émotionnels, la sophrologie permet &nbsp;de retrouver un bien-être au quotidien, de développer son potentiel, de stimuler ses capacités et ainsi de se découvrir. Cette découverte apporte un bien être &nbsp;et permet de développer une meilleur qualité de relation à soi et à son environnement.</span></p><p><br></p><p>Elle peut se définir comme \"L'étude de la conscience harmonieuse\"&nbsp;</p><p><br></p>",
+          "caption": "<p>La sophrologie &nbsp;a été créé dans les années 60, par le neurophsychiatre colombien Alfonso Caycédo, qui s'est inspiré de techniques orientales et occidentales.</p><p>C'est une méthode psycho-corporelle qui favorise l'équilibre du corps et de l'esprit à travers des techniques d'activation et de relaxation, appuyés par la respiration.</p><p><span style=\"font-size: 1.25rem;\">Par la prise de conscience de soi, de ses ressentis physiques et émotionnels, la sophrologie permet &nbsp;de retrouver un bien-être au quotidien, de développer son potentiel, de stimuler ses capacités et ainsi de se découvrir. Cette découverte apporte un bien être &nbsp;et permet de développer une meilleur qualité de relation à soi et à son environnement.</span></p><p><br></p><p>Elle peut se définir comme \"L'étude de la conscience harmonieuse\"&nbsp;</p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
@@ -203,7 +203,7 @@
     "Moi.html": {
       "settings": {
         "title": "Moi",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -269,7 +269,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "QUI SUIS-JE ?",
-          "caption": "<p>Pascale FUZET, diplômée Master Spécialiste en Sophrologie Caycédienne</p><p>De formations initiales en Art Thérapie et en Education Spécialisée, j'ai travaillé &nbsp;pendant plus de 20 ans &nbsp;auprès d'un public d'adultes et d'enfants en difficultés sociales et/ou &nbsp;en situation de handicap.</p><p>J'ai découvert la Sophrologie Caycédienne en 2008, méthode qui m'a conquise immédiatement. Les bienfaits que j'en ai ressenti m'ont &nbsp;amené naturellement a me former à cette méthode afin d'en faire bénéficier les gens que j'accompagnais au quotidien, dans le but qu'ils développent leur potentiel et s'épanouissent dans la dignité.</p><p>Mon intérêt pour l'être humain à toujours été présent dans mon parcours. Aujourd'hui J'accompagne les personnes à prendre conscience d'elles-même, de leur ressentis, afin &nbsp;qu'elles s'acheminent vers plus de sérénité, qu'elle retrouve confiance en elles et en l'avenir.</p>",
+          "caption": "<p>Pascale FUZET, diplômée Master Spécialiste en Sophrologie Caycédienne</p><p>De formations initiales en Art Thérapie et en Education Spécialisée, j'ai travaillé &nbsp;pendant plus de 20 ans &nbsp;auprès d'un public d'adultes et d'enfants en difficultés sociales et/ou &nbsp;en situation de handicap.</p><p>J'ai découvert la Sophrologie Caycédienne en 2008, méthode qui m'a conquise immédiatement. Les bienfaits que j'en ai ressentis m'ont &nbsp;amenée naturellement à me former à cette méthode afin d'en faire bénéficier les gens que j'accompagnais au quotidien, dans le but qu'ils développent leur potentiel et s'épanouissent dans la dignité.</p><p>Mon intérêt pour l'être humain à toujours été présent dans mon parcours. Aujourd'hui J'accompagne les personnes à prendre conscience d'elles-mêmes, de leur ressentis, afin &nbsp;qu'elles s'acheminent vers plus de sérénité, qu'elles retrouvent confiance en elles et en l'avenir.</p>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
@@ -287,7 +287,7 @@
     "Application.html": {
       "settings": {
         "title": "Application",
-        "order": 7
+        "order": 2
       },
       "components": [
         {
@@ -575,7 +575,7 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Entreprise",
+          "title": "Entreprise / Association",
           "meta": "Me contacter pour obtenir un devis<br><br>",
           "alias": "purity/components",
           "_tags": [
@@ -677,7 +677,7 @@
           }
         },
         {
-          "text": "<p>De nos jours, la prévention des risques psycho-sociaux est un enjeu majeur dans le monde professionnel. En vertu de l'article 4212-1 du code du travail, &nbsp;le responsable d'entreprise se doit d'assurer la protection de la santé mentale et physique de ses salariés.</p><p>La sophrologie &nbsp;Caycédienne est une réponse adaptée aux besoins de ceux-ci.<br>En effet, elle agit en prévention de ces risques professionnels. Elle permet d'éviter les troubles musculo-squelettiques, les somatisations et le burn-out puisqu'elle accompagne les personnes ver un mieux-être.</p><p>Mon accompagnement porte sur : &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</p><p>* Savoir repérer et gérer ses tensions,</p><p>* Travailler sur sa posture et sa récupération,</p><p>* Stimuler sa concentration, sa mémoire, sa créativité,</p><p>* Développer une cohésion et un esprit d'équipe,</p><p>* Retrouver de l'énergie au quotidien,</p><p>* Mobiliser ses ressources, ses capacités,</p><p>* Renforcer sa motivation, sa confiance en soi.</p><p><br></p><p><br></p>",
+          "text": "<p>De nos jours, la prévention des risques psycho-sociaux est un enjeu majeur dans le monde professionnel. En vertu de l'article 4212-1 du code du travail, &nbsp;le responsable d'entreprise se doit d'assurer la protection de la santé mentale et physique de ses salariés.</p><p>La sophrologie &nbsp;Caycédienne est une réponse adaptée aux besoins de ceux-ci.<br>En effet, elle agit en prévention de ces risques professionnels. Elle permet d'éviter les troubles musculo-squelettiques, les somatisations et le burn-out puisqu'elle accompagne les personnes vers un mieux-être.</p><p><b>Mon accompagnement porte sur :</b> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</p><p>* Savoir repérer et gérer ses tensions,</p><p>* Travailler sur sa posture et sa récupération,</p><p>* Stimuler sa concentration, sa mémoire, sa créativité,</p><p>* Développer une cohésion et un esprit d'équipe,</p><p>* Retrouver de l'énergie au quotidien,</p><p>* Mobiliser ses ressources, ses capacités,</p><p>* Renforcer sa motivation, sa confiance en soi.</p><p><br></p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
@@ -695,7 +695,7 @@
     "page6.html": {
       "settings": {
         "title": "Enfants",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -775,7 +775,7 @@
           }
         },
         {
-          "text": "<p>La sophrologie s'adresse aux enfants à partir de 6 ans. &nbsp; Elle leurs apprend à mieux se connaitre et à prendre confiance en eux. Les séances sont plus courtes que pour les adultes ( environ 45 minutes) et répondent aux besoins particuliers des enfants (temps de pause entre les exercices, échanges pour qu'ils puissent prendre conscience de leur vécu, de leur sensation).</p><p>J'utilise des exercices adaptés &nbsp;(expression corporelle, jeux, contes) selon la maturité de chacun, &nbsp;qui permettent aux enfants de sentir leur corps dans le calme, de se sentir respirer, de grandir et de s'épanouir sereinement.</p><p>Je leur donne des outils pour qu'ils se &nbsp;sentent plus forts, plus serein &nbsp;et puissent ainsi être plus épanouit et disponibles aux apprentissages.</p><p>La sophrologie caycédienne va aider l'enfant à :</p><p>* Apprendre à se détendre,</p><p>* Apprivoiser ses peurs et ses angoisses,</p><p>* Apaiser ses colères et ses émotions,</p><p>* Gérer les difficultés d'endormissement,</p><p>* Améliorer la concentration et l'attention,</p><p>* Retrouver une motivation,</p><p>* Améliorer ses relations et positiver.<br><br></p>",
+          "text": "<p>La sophrologie s'adresse aux enfants à partir de 6 ans. &nbsp; Elle leurs apprend à mieux se connaitre et à prendre confiance en eux. Les séances sont plus courtes que pour les adultes ( environ 45 minutes) et répondent aux besoins particuliers des enfants (temps de pause entre les exercices, échanges pour qu'ils puissent prendre conscience de leur vécu, de leur sensation).</p><p>J'utilise des exercices adaptés &nbsp;(expression corporelle, jeux, contes) selon la maturité de chacun, &nbsp;qui permettent aux enfants de sentir leur corps dans le calme, de se sentir respirer, de grandir et de s'épanouir sereinement.</p><p>Je leur donne des outils pour qu'ils se &nbsp;sentent plus forts, plus sereins &nbsp;et puissent ainsi être plus épanouis et disponibles aux apprentissages.</p><p><b>La sophrologie caycédienne va aider l'enfant à :</b></p><p>* Apprendre à se détendre,</p><p>* Apprivoiser ses peurs et ses angoisses,</p><p>* Apaiser ses colères et ses émotions,</p><p>* Gérer ses difficultés d'endormissement,</p><p>* Améliorer sa concentration et son attention,</p><p>* Retrouver une motivation,</p><p>* Améliorer ses relations et positiver.<br><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
@@ -788,7 +788,7 @@
     "page7.html": {
       "settings": {
         "title": "Adolescents",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -881,7 +881,7 @@
     "page8.html": {
       "settings": {
         "title": "Contact",
-        "order": 2
+        "order": 8
       },
       "components": [
         {
@@ -931,7 +931,7 @@
           "_params": {
             "showMeta": false
           },
-          "title": "<p>Pascale FUZET<br>79, rue du Village<br>76410 Sotteville sous le val<br><br>Téléphone : &nbsp; &nbsp; &nbsp; 06.32.39.58.91<br>Adresse mail :&nbsp; &nbsp;sophro-c@pascale-fuzet.fr<br><br>Je reçois en individuel, sur rendez-vous et je me déplace à domicile si besoin, sur l'agglomération d'Elbeuf et de Rouen.<br><br>J'interviens auprès de différents établissements sur des groupes de développement personnel et de gestion du stress.</p>",
+          "title": "<p>Pascale FUZET<br>79, rue du Village<br>76410 Sotteville sous le val<br><br>Téléphone : &nbsp; &nbsp; &nbsp; 06.32.39.58.91<br>Adresse mail :&nbsp; &nbsp;sophro-c@pascale-fuzet.fr<br><br>Je reçois en individuel, sur rendez-vous et je me déplace à domicile si besoin, autour d'Elbeuf, de Rouen, de Val de Reuil.<br><br>J'interviens auprès de différents établissements sur des groupes de développement personnel et de gestion du stress.</p>",
           "meta": "",
           "alias": "purity/components",
           "_tags": [
@@ -951,7 +951,7 @@
     "page9.html": {
       "settings": {
         "title": "InProgress",
-        "order": 1
+        "order": 9
       },
       "components": [
         {
