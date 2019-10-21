@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PascaleFuzet",
-    "currentPage": "Moi.html",
+    "currentPage": "Sophro.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -184,8 +184,8 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.7
           },
-          "title": "La sophrologie, c'est quoi?",
-          "caption": "<p>La sophrologie &nbsp;a été créé dans les années 60, par le neurophsychiatre colombien Alfonso Caycédo, qui s'est inspiré de techniques orientales et occidentales.</p><p>C'est une méthode psycho-corporelle qui favorise l'équilibre du corps et de l'esprit à travers des techniques d'activation et de relaxation, appuyés par la respiration.</p><p><span style=\"font-size: 1.25rem;\">Par la prise de conscience de soi, de ses ressentis physiques et émotionnels, la sophrologie permet &nbsp;de retrouver un bien-être au quotidien, de développer son potentiel, de stimuler ses capacités et ainsi de se découvrir. Cette découverte apporte un bien être &nbsp;et permet de développer une meilleur qualité de relation à soi et à son environnement.</span></p><p><br></p><p>Elle peut se définir comme \"L'étude de la conscience harmonieuse\"&nbsp;</p><p><br></p>",
+          "title": "La <b>Sophrologie Caycédienne</b>, c'est quoi?",
+          "caption": "<p>La sophrologie &nbsp;a été créé dans les années 60, par le neurophsychiatre colombien : &nbsp;<b>Le Professeur Alfonso Caycédo</b>, qui s'est inspiré de techniques orientales pour <b>développer sérénité et mieux-être au quotidien.</b></p><p>Le mot Sophrologie vient du Grec et se décompose ainsi :</p><p>- <i>SOS</i> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp;Harmonie, bien-être,</p><p>-<i> PHREN</i> &nbsp; : &nbsp;Conscience,</p><p>- <i>LOGOS</i> &nbsp; &nbsp;: &nbsp;Science, étude.</p><p><b>La Sophrologie Caycédienne</b> est une science &nbsp;qui permet de développer une harmonie physique et mentale.</p><p>Longtemps utilisée dans le milieu médical, la Sophrologie s'étend aujourd'hui dans les domaines de la prévention au sens large. Elle se pratique dans différents champs d'activité : <b>la santé, les études, le sport, l'entreprise</b>.</p><p>Tout le monde peut pratiquer la Sophrologie Caycédienne, sans limitation d'âge ou de condition physique : <b>enfants, étudiant, adultes, personnes âgées, personnes en situation de handicap.</b></p><p>Les séances peuvent se pratiquer en individuel ou en groupe selon les objectifs recherchés. Elle se pratique debout ou assise et ne requiert aucune tenue spécifique.</p><p>La Sophrologie est &nbsp;une méthode psycho-co<span style=\"font-size: 1.25rem;\">rporelle qui favorise l'équilibre du corps et de l'esprit à travers des techniques d'activation et de relaxation, appuyé par la respiration. &nbsp;afin de développer une conscience plus claire.</span></p><p><span style=\"font-size: 1.25rem;\">Par la prise de conscience de soi, de ses ressentis physiques et émotionnels, la sophrologie permet &nbsp;de retrouver un bien-être au quotidien, de développer son potentiel, de stimuler ses capacités et ainsi de se découvrir autrement. Cette découverte apporte un nouveau regard et permet de développer une meilleur qualité de relation à soi et à son environnement.</span></p><p>Outre les bienfaits en développement personnel, la Sophrologie offre un véritable soutien pour les personnes fragilisées. Elle révèle le potentiel de chacun, lui offre d'autres façon de voir, plus positive et redonne à chacun le pouvoir sur lui-même.</p><p>Elle peut se définir comme \"<b>L'étude de la conscience harmonieuse</b>\"&nbsp;</p><p><i>La Sophrologie Caycédienne &nbsp;est apolitique et laïque, elle ne se substitue en aucun cas à un traitement médical ou à un suivi psychologique, mais peut-être utilisée en complément.</i></p>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
@@ -194,7 +194,9 @@
           "_anchor": "content5-k",
           "_styles": {
             ".mbr-section-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
             }
           }
         }
@@ -269,7 +271,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "QUI SUIS-JE ?",
-          "caption": "<p>Pascale FUZET, diplômée Master Spécialiste en Sophrologie Caycédienne</p><p>De formations initiales en Art Thérapie et en Education Spécialisée, j'ai travaillé &nbsp;pendant plus de 20 ans &nbsp;auprès d'un public d'adultes et d'enfants en difficultés sociales et/ou &nbsp;en situation de handicap.</p><p>J'ai découvert la Sophrologie Caycédienne en 2008, méthode qui m'a conquise immédiatement. Les bienfaits que j'en ai ressentis m'ont &nbsp;amenée naturellement à me former à cette méthode afin d'en faire bénéficier les gens que j'accompagnais au quotidien, dans le but qu'ils développent leur potentiel et s'épanouissent dans la dignité.</p><p>Mon intérêt pour l'être humain à toujours été présent dans mon parcours. Aujourd'hui J'accompagne les personnes à prendre conscience d'elles-mêmes, de leur ressenti, afin &nbsp;qu'elles s'acheminent vers plus de sérénité, qu'elles retrouvent confiance en elles et en l'avenir.</p>",
+          "caption": "<p>Pascale FUZET, diplômée Master Spécialiste en Sophrologie Caycédienne</p><p>De formations initiales en Art Thérapie et en Education Spécialisée, j'ai travaillé &nbsp;pendant plus de 20 ans &nbsp;auprès d'un public d'adultes et d'enfants en difficultés sociales et psychologiques.</p><p>J'ai découvert la Sophrologie Caycédienne en 2008, méthode qui m'a conquise immédiatement. Les bienfaits que j'en ai ressentis m'ont &nbsp;amenée naturellement à me former à cette méthode afin d'en faire bénéficier les gens que j'accompagnais au quotidien, dans le but qu'ils développent leur potentiel et s'épanouissent dans la dignité.</p><p>Mon intérêt pour l'être humain à toujours été présent dans mon parcours. Aujourd'hui J'accompagne les personnes à prendre conscience d'elles-mêmes, de leur ressenti, afin &nbsp;qu'elles s'acheminent vers plus de sérénité, qu'elles retrouvent confiance en elles et en l'avenir.</p>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
