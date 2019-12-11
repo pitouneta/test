@@ -121,3 +121,12 @@
 #header3-1c H3 {
   font-family: 'Alegreya Sans', sans-serif;
 }
+#menu-1d .navbar-toggler {
+  color: #000;
+}
+#menu-1d .nav-link {
+  font-size: 23px;
+}
+#content5-1e .mbr-section-title {
+  text-align: center;
+}
