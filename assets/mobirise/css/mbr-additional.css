@@ -43,6 +43,14 @@
 #menu-o .nav-link {
   font-size: 23px;
 }
+
+
+
+
+
+
+
+
 #menu-r .navbar-toggler {
   color: #000;
 }
@@ -52,25 +60,43 @@
 #header3-s H3 {
   text-align: center;
   font-size: 46px;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #header3-t H3 {
-  font-size: 24px;
+  font-size: 25px;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #header3-t SMALL {
   font-size: 16px;
 }
+#header3-t I {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 25px;
+}
+#header3-t B {
+  font-family: 'Alegreya Sans', sans-serif;
+}
 #header3-u H3 {
-  font-size: 24px;
+  font-size: 25px;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #header3-u SMALL {
   font-size: 16px;
 }
+#header3-u B {
+  font-family: 'Alegreya Sans', sans-serif;
+}
 #header3-v H3 {
-  font-size: 24px;
+  font-size: 25px;
   color: #000000;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #header3-v SMALL {
   font-size: 16px;
+}
+#header3-v B {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 25px;
 }
 #menu-z .navbar-toggler {
   color: #000;
