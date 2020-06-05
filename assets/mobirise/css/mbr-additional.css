@@ -51,6 +51,9 @@
 #content5-e P {
   font-family: 'Oxygen', sans-serif;
 }
+#content5-e .mbr-section-title P {
+  text-align: left;
+}
 
 #content5-x .mbr-section-title {
   text-align: center;
