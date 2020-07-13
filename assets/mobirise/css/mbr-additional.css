@@ -1,12 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
-@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 
 #header1-0 H1 {
   text-align: center;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #header1-0 P {
   font-size: 32px;
@@ -16,7 +13,7 @@
 }
 #menu-5 .nav-link {
   font-size: 23px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 
 
@@ -26,15 +23,16 @@
 }
 #menu-5 .nav-link {
   font-size: 23px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #content5-k .mbr-section-title {
   text-align: center;
   font-family: 'Alegreya Sans', sans-serif;
 }
 #content5-k P {
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
   text-align: left;
+  font-size: 25px;
 }
 
 
@@ -43,28 +41,35 @@
 }
 #menu-7 .nav-link {
   font-size: 23px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #content5-e .mbr-section-title {
   text-align: center;
 }
 #content5-e P {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 25px;
 }
 #content5-e .mbr-section-title P {
   text-align: left;
 }
 
+
 #content5-x .mbr-section-title {
   text-align: center;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #menu-o .navbar-toggler {
   color: #000;
 }
 #menu-o .nav-link {
   font-size: 23px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
+#features1-y .btn {
+  font-size: 25px;
+}
+
 
 
 
@@ -79,26 +84,26 @@
 }
 #menu-r .nav-link {
   font-size: 23px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #header3-s H3 {
   text-align: center;
   font-size: 46px;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #header3-t H3 {
   font-size: 25px;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #header3-t SMALL {
   font-size: 16px;
 }
 #header3-t I {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
   font-size: 25px;
 }
 #header3-t B {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #header3-u H3 {
   font-size: 25px;
@@ -108,53 +113,73 @@
   font-size: 16px;
 }
 #header3-u B {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #header3-v H3 {
   font-size: 25px;
   color: #000000;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #header3-v SMALL {
   font-size: 16px;
 }
 #header3-v B {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
   font-size: 25px;
 }
+#header3-v DIV {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+
 
 #menu-z .navbar-toggler {
   color: #000;
 }
 #menu-z .nav-link {
   font-size: 23px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #content5-11 .mbr-section-title {
   text-align: center;
+  font-family: 'Alegreya Sans', sans-serif;
 }
+#content5-11 P {
+  font-size: 25px;
+  text-align: left;
+}
+
 
 #menu-13 .navbar-toggler {
   color: #000;
 }
 #menu-13 .nav-link {
   font-size: 23px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #content5-14 .mbr-section-title {
   text-align: center;
+  font-family: 'Alegreya Sans', sans-serif;
 }
+#content5-14 P {
+  font-size: 25px;
+}
+
 
 #menu-16 .navbar-toggler {
   color: #000;
 }
 #menu-16 .nav-link {
   font-size: 23px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #content5-17 .mbr-section-title {
   text-align: center;
+  font-family: 'Alegreya Sans', sans-serif;
 }
+#content5-17 P {
+  font-size: 25px;
+}
+
 
 
 #menu-19 .navbar-toggler {
@@ -162,9 +187,13 @@
 }
 #menu-19 .nav-link {
   font-size: 23px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #header3-1a P {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 25px;
+}
+#header3-1a H3 {
   font-family: 'Alegreya Sans', sans-serif;
 }
 
@@ -174,19 +203,24 @@
 }
 #menu-1b .nav-link {
   font-size: 23px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #header3-1c H3 {
   font-family: 'Alegreya Sans', sans-serif;
 }
+
 
 #menu-1d .navbar-toggler {
   color: #000;
 }
 #menu-1d .nav-link {
   font-size: 23px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #content5-1i .mbr-section-title {
   text-align: center;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#content5-1i P {
+  font-size: 25px;
 }
